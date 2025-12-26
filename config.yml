@@ -1,0 +1,5 @@
+# Govee LED Controller Configuration
+# This file stores default settings for the govee CLI
+
+# Default device MAC address (found via 'govee scan')
+device: "C5:37:32:32:2C:43"
